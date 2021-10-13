@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jefferson.dias.pires\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jefferson.dias.pires\\.nuget\\packages"
+    ]
+  }
+}
